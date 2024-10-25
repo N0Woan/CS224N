@@ -1,2 +1,2 @@
 # CS224N
-I learn Stanford NLP course
+My solutions for assignments from CS224N course of Standford.
